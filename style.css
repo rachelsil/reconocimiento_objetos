@@ -1,0 +1,22 @@
+body
+{
+    color: blue;
+    background: rgb(228, 176, 184);
+}
+
+.titulo
+{
+    width: 80%;
+    font-size: 22px;
+}
+
+.nombre_de_objetos
+{
+    color: blueviolet;
+}
+#camara
+{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
